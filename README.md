@@ -1,2 +1,2 @@
 # ldap-manager
-A kind of manager to LDAP protocol. 
+A kind of manager to LDAP protocol.
