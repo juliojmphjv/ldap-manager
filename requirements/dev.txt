@@ -1,0 +1,7 @@
+flake8
+ipdb
+isort
+black
+mypy
+bandit
+behave
